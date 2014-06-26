@@ -7,7 +7,7 @@ func generateRandomArray(size: Int) -> NSArray {
     
     var randomArray = NSMutableArray()
     
-    for i in 1...10 {
+    for i in 1...size {
         
         randomArray.addObject(Int(arc4random_uniform(100)))
     }
