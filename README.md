@@ -1,4 +1,4 @@
 algorithms
 ==========
 
-Swift Algorithms
+A selection of CS algorithms implemented in Swift
